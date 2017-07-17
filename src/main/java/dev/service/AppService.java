@@ -1,4 +1,4 @@
-package dev.log_SLF4J;
+package dev.service;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
